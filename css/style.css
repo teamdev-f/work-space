@@ -19,3 +19,8 @@
   width: 240px;
   height: 180px;
 }
+
+.card-wrapper{
+  padding-bottom: 3rem;
+  padding: 0rem 2rem;
+}
