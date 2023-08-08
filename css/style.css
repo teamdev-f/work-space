@@ -7,3 +7,20 @@
   justify-content: flex-start;
   align-items: center;
 }
+
+.card-content {
+  width: 40%;
+  margin-right: 3rem;
+  margin-left: 3rem;
+
+}
+
+.cards-img {
+  width: 240px;
+  height: 180px;
+}
+
+.card-wrapper{
+  padding-bottom: 3rem;
+  padding: 0rem 2rem 1rem 2rem;
+}
